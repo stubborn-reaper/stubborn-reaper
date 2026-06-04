@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
+  usually sitting as lawrence's pony but it's probably still me.
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=stubborn-reaper&color=2C2A2A&label=stalkers" alt="Profile Vies" />
 </p>
